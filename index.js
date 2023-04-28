@@ -7,6 +7,8 @@ const a = 2
 
 if (a % 2) {
   console.log("hyy")
-} else {
+} 
+
+else {
   console.log("byy")
 }
